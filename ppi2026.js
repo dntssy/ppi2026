@@ -157,5 +157,6 @@ console.log (numeros.toSorted((a, b) => a - b)); //C
 console.log (numeros.toSorted((a, b) => b - a)); //D
 
 // Maior valor
-
-// Menor valor
+console.log (`Maior =`, numeros[numeros.length-1]); 
+// Menor valor 
+console.log (`Menor =`, numeros [0] ); 
