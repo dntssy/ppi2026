@@ -1,6 +1,6 @@
 
-   // Programação para Internet - 2026
-    //Aluna: Guilherme Leal
+   // PPI - 2026
+    //Aluna: Emmily Vitória
 
 
 // Ativar o formatador Prettier
@@ -8,11 +8,11 @@
 
 // # Aula 06/05 - Introdução a JavaScript
 
-console.log("Bem vindo a PPI!");
+console.log("wlcome to ppi!");
 
 // Variáveis
-let name = "João";
-let age = 17;
+let name = "emmily";
+let age = 18;
 let isStudent = true;
 
 const PI = 3.14; // Não pode mudar de valor
